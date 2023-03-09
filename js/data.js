@@ -6,17 +6,16 @@ let data_info = [
     },
     {
         titulo : "git commit -m",
-        mensaje : "Preguntar por mis herramientas",
+        mensaje : `Es para guardar las versiones avansadas del progreso del codigo
+        esto guarda de forma grande las nuevas versiones con un comentario`
     },
     {
         titulo : "git pull",
-        mensaje : "Lavar el carro",
+        mensaje : "Lleva la informacion a la nube con git para que la informacion quede anclada y formada en orden",
     },
     {
         titulo : "git push",
-        mensaje : "Comer 1 fruta",
+        mensaje : "Llega a su repositorio con una base nitida y con los nuevas cmabios, el comentario agregado y las nuevas formulas e diseño",
     },
 
 ];
-
-export {data_info};
